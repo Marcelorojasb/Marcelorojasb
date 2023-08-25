@@ -1,3 +1,4 @@
+<div align="center">
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -90,8 +91,7 @@ Others
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-
-
+</div>
 
 [Django.io]: https://img.shields.io/badge/Django-35495E?style=for-the-badge&logo=Django&logoColor=4FC08D
 [Django-url]: https://docs.djangoproject.com/en/4.1/
