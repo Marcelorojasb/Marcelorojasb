@@ -16,6 +16,7 @@
   <a href='mailto:marcelrojas@ug.uchile.cl' target='_blank'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
+</div>
 
 - 👋 Hi, I’m Marcelo
 - 📚 I am an electrical engineering and master of data science student
@@ -24,6 +25,7 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
+<div align="center">
 Programming Languages
 
   <a href="https://www.python.org" target="_blank">
